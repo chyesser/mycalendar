@@ -1,9 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-NB: you should have the backend for some reasons of security you cannot switching tabs unless you're not connecting 
 ## Available Scripts
-
+NB: you should have the backend for some reasons of security you cannot switching tabs unless you're not connecting 
 In the project directory, you can run:
 to add node modules run
 ### npm install
