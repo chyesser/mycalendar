@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
-NB: you should have the backend for some reasons of security you cannot switching tabs unless you're not connecting 
+NB: you should have the backend for some reasons of security you cannot switching tabs unless you're connecting 
 
 In the project directory, you can run:
 
