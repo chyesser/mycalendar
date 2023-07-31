@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
-NB: you should have the backend for some reasons of security you cannot switching tabs unless you're connecting i put a link to direct download the back project you should intall laragon and extract the file under C:/laragon/ then you will find readme file follow the instructions and have fun!
+NB: you should have the backend for some reasons of security you cannot switching tabs unless you're connecting i put a link to direct
+
+download the back project you should intall laragon and extract the file under C:/laragon/ then you will find readme file follow the 
+
+instructions and have fun!
 
 In the project directory, you can run:
 
