@@ -7,6 +7,14 @@ direct download the back project you should intall laragon and extract the file 
 C:/laragon/ then you will find readme file follow the instructions and have fun!
 https://drive.google.com/uc?export=download&id=1AGI8Q-308E7oZJdu5zthtmsqZubsf0T_
 
+
+(https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![343621388_1221191791915662_4899289335315856226_n](https://github.com/chyesser/mycalendar/assets/124065191/9ce81782-cfd0-4ec5-917c-2e86c3fdd2d5)
+![345248021_620347726710040_8608186576705211157_n](https://github.com/chyesser/mycalendar/assets/124065191/3fba792a-5db8-4574-8d47-d47ddf51311a)
+
+![345432652_263534949662940_4792729319400719186_n](https://github.com/chyesser/mycalendar/assets/124065191/232c1c9f-90a3-443c-8e81-588330098ade)
+
+
 In the project directory, you can run:
 
 to add node modules run
@@ -73,9 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-![343621388_1221191791915662_4899289335315856226_n](https://github.com/chyesser/mycalendar/assets/124065191/9ce81782-cfd0-4ec5-917c-2e86c3fdd2d5)
-![345248021_620347726710040_8608186576705211157_n](https://github.com/chyesser/mycalendar/assets/124065191/3fba792a-5db8-4574-8d47-d47ddf51311a)
-
-![345432652_263534949662940_4792729319400719186_n](https://github.com/chyesser/mycalendar/assets/124065191/232c1c9f-90a3-443c-8e81-588330098ade)
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify]
